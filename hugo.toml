@@ -1,4 +1,4 @@
-baseURL = "https://HaoZhong03.github.io.com/"
+baseURL = "https://HaoZhong03.github.io/"
 buildDrafts = false
 buildExpired = false
 buildFuture = false
