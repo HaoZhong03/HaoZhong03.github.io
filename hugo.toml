@@ -50,11 +50,10 @@ defaultContentLanguage = "zh"
   url = "/categories/"
   weight = 4
 [[menu.main]]
-  name = "🔍搜索"
   identifier = "search"
-  pre = "<i class='fa fa-search'></i>"
-  weight = 5
+  name = "🔍搜索"
   url = "/search"
+  weight = 5
 [[menu.main]]
   identifier = "about"
   name = "🎁关于"
@@ -66,7 +65,7 @@ defaultContentLanguage = "zh"
 
 # 搜索功能
 [outputs]
-    home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
 
 # 主题设置
 [params]
@@ -103,18 +102,15 @@ defaultContentLanguage = "zh"
 [params.profileMode]
     enabled = true  # 个人主页模式
     title = "HaoZhong03"
-    subtitle = "哈机米哦那没路多"
-    imageUrl = "index.jpg"
+    subtitle = "El Psy Kongroo"
+    imageUrl = "http://tva1.sinaimg.cn/large/005O6v8dly1i5fri7tiv6j30hs0hsgm7.jpg"
     imageWidth = ""
     imageHeight = ""
 
 # 主页按钮
 [[params.profileMode.buttons]]
-    name = "日志"
-    url = "/posts"
-[[params.profileMode.buttons]]
-    name = "文档"
-    url = "/docs"
+    name = "👉点击查看世界线👈"
+    url = "/archives"
 
 # 社交图标
 [[params.socialIcons]]
@@ -139,14 +135,15 @@ defaultContentLanguage = "zh"
 
 # 分类等级
 [taxonomies]
-    category = "categories"
-    tag = "tags"
-    series = "series"
+  category = "categories"
+  tag = "tags"
+  series = "series"
 
 # 评论
 [params.twikoo]
-    version = "1.6.16"
+  version = "1.6.16"
 
 # 访客统计
 [params.busuanzi]
-    enable = true
+  enable = true
+
