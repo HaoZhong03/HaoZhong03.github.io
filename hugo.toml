@@ -134,6 +134,18 @@ defaultContentLanguage = "zh"
   minMatchCharLength = 0
   keys = ["title", "permalink", "summary", "content"]
 
+[params.page.comment]
+  enable = true
+[params.page.comment.giscus]
+  # You can refer to the official documentation of giscus to use the following configuration.
+  # 你可以参考官方文档来使用下列配置
+  enable = true
+  repo = "Haozhong03/Haozhong03.github.io"
+  repoId = "R_kgDOPutG0g"
+  category = "Announcements"
+  categoryId = "DIC_kwDOPutG0s4Cvi80"
+  mapping = "pathname"
+
 # 分类等级
 [taxonomies]
   category = "categories"
