@@ -23,3 +23,24 @@ tags:
 categories:
 - blogs
 ---
+
+
+
+
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="Haozhong03/Haozhong03.github.io"
+        data-repo-id="R_kgDOPutG0g"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOPutG0s4Cvi80"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
