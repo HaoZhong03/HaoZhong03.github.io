@@ -69,6 +69,7 @@ defaultContentLanguage = "zh"
 
 # 主题设置
 [params]
+    math = true
     env = "production"
     description = "这是一段描述"
     author = "HaoZhong03"
