@@ -137,23 +137,6 @@ defaultContentLanguage = "zh"
 [params.page.comment]
   enable = true
   # giscus comment 评论系统设置 (https://giscus.app/zh-CN)
-[params.page.comment.giscus]
-  # 你可以参考官方文档来使用下列配置
-  enable = true
-  repo = "Haozhong03/Haozhong03.github.io"
-  repoId = "R_kgDOPutG0g"
-  category = "Announcements"
-  categoryId = "DIC_kwDOPutG0s4Cvi80"
-        # 为空时自动适配当前主题 i18n 配置
-  lang = "zh-CN"
-  mapping = "pathname"
-  reactionsEnabled = "1"
-  emitMetadata = "0"
-  inputPosition = "bottom"
-  lazyLoading = false
-  lightTheme = "light"
-  darkTheme = "dark"
-  discussionTitle = "说点什么" # 按需填写，评论框上方的标题
 
 # 分类等级
 [taxonomies]
