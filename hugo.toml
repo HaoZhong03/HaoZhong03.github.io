@@ -101,9 +101,7 @@ defaultContentLanguage = "zh"
     # iconHeight = 36
 
 [params.assets]
-    favicon = "images/favicon-16x16-.png"        # 浏览器标签图标
-    favicon16x16 = "images/favicon-16x16-.png"   # 浏览器标签图标
-    favicon32x32 = "images/favicon-32x32-.png"   # 浏览器标签图标
+    favicon = "/assets/favicon.ico"        # 浏览器标签图标
     disableHLJS = true  # 不使用highlight.js
 
 [params.profileMode]
@@ -118,6 +116,13 @@ defaultContentLanguage = "zh"
 [[params.profileMode.buttons]]
     name = "👉点击查看世界线👈"
     url = "/archives"
+
+[params.homeInfoParams]
+    title = "HaoZhong03's Blog"
+    content = "苯人又在不务正业"
+    imageUrl = "https://s21.ax1x.com/2025/09/20/pV4azjI.jpg"
+    imageHeight = 200
+    imageWidth = 200
 
 # 社交图标
 [[params.socialIcons]]

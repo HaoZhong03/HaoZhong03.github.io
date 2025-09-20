@@ -100,7 +100,7 @@
 }
 
 .entry-cover {
-    border-radius: 10px;
+    border-radius: 15px;
     overflow: hidden;
     width: 50%;
     margin-bottom: unset;
@@ -124,4 +124,14 @@
     width: 100%;
     height: auto;
     margin-bottom: 40px;
+}
+
+
+
+.noto-sans-sc-<uniquifier> {
+  font-family: "Noto Sans SC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1rem;
+  line-height: 1.5;
+  font-style: normal;
 }
