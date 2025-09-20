@@ -1,3 +1,5 @@
-<img src="http://tva1.sinaimg.cn/large/005O6v8dly1i5fri7tiv6j30hs0hsgm7.jpg" width="210px">
+# 【HaoZhong03's Blog】
 
-# HaoZhong03's Blog
+### 💡 近日正在更新：[本人亲自修纂的ggplot2文档](/docs/ggplot2/index.html)！
+---
+### 🌈 最新日志：

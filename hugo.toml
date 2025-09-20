@@ -87,6 +87,12 @@ defaultContentLanguage = "zh"
     comments = true             # 展示评论
     hideFooter = false          # 隐藏页脚信息
     # ShowAllPagesInArchive = true #
+    ShowWordCounts = true
+    ShowReadingTime = true
+    ShowLastMod = true
+    discussionTitle = "欢迎来到评论区"
+    discussionSubtitle = "感谢您的耐心阅读！如需交流，请留个评论吧！"
+
 
 # 左上角标签
 [params.label]
@@ -101,7 +107,7 @@ defaultContentLanguage = "zh"
     disableHLJS = true  # 不使用highlight.js
 
 [params.profileMode]
-    enabled = true  # 个人主页模式
+    enabled = false  # 个人主页模式
     title = "HaoZhong03"
     subtitle = "El Psy Kongroo"
     imageUrl = "https://s21.ax1x.com/2025/09/16/pVfHj39.jpg"
@@ -138,15 +144,25 @@ defaultContentLanguage = "zh"
   enable = true
   # giscus comment 评论系统设置 (https://giscus.app/zh-CN)
 
+[params.giscus]
+  repo = "Haozhong03/Haozhong03.github.io"
+  repoId = "R_kgDOPutG0g"
+  category = "Announcements"
+  categoryId = "DIC_kwDOPutG0s4Cvi80"
+  mapping = "pathname"
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  lightTheme = "monokailight"
+  darkTheme = "github-dark"
+  lang = "zh-CN"
+
 # 分类等级
 [taxonomies]
   category = "categories"
   tag = "tags"
   series = "series"
-
-# 评论
-[params.twikoo]
-  version = "1.6.16"
 
 # 访客统计
 [params.busuanzi]

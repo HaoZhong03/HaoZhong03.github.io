@@ -16,7 +16,7 @@ searchHidden: false     # 该页面不能被搜索到
 showbreadcrumbs: true   # 顶部显示当前路径
 mermaid: true           # 是否开启mermaid
 cover:
-    image: ""           # 封面图片
+    image: "https://ggplot2.tidyverse.org/logo.png"           # 封面图片
     hidden: true        # 文章页面隐藏封面图片
 tags:
 - R
