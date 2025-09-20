@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blogs on HaoZhong03 blog</title><link>https://HaoZhong03.github.io/tags/blogs/</link><description>Recent content in Blogs on HaoZhong03 blog</description><generator>Hugo -- 0.150.0</generator><language>zh</language><lastBuildDate>Wed, 17 Sep 2025 14:39:43 +0800</lastBuildDate><atom:link href="https://HaoZhong03.github.io/tags/blogs/index.xml" rel="self" type="application/rss+xml"/><item><title>数学公式支持、侧边目录、评论系统</title><link>https://HaoZhong03.github.io/posts/20250917/</link><pubDate>Wed, 17 Sep 2025 14:39:43 +0800</pubDate><guid>https://HaoZhong03.github.io/posts/20250917/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# 首先测试一下代码框样式&lt;/span&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blogs on HaoZhong03 blog</title><link>https://HaoZhong03.github.io/tags/blogs/</link><description>Recent content in Blogs on HaoZhong03 blog</description><generator>Hugo -- 0.150.0</generator><language>zh</language><lastBuildDate>Sat, 20 Sep 2025 12:30:23 +0800</lastBuildDate><atom:link href="https://HaoZhong03.github.io/tags/blogs/index.xml" rel="self" type="application/rss+xml"/><item><title>今日继续维护网站</title><link>https://HaoZhong03.github.io/posts/20250920/</link><pubDate>Sat, 20 Sep 2025 12:30:23 +0800</pubDate><guid>https://HaoZhong03.github.io/posts/20250920/</guid><description>&lt;p&gt;当你点进来时候发现有个耄耋对你哈气你是何心情？&lt;/p&gt;
+&lt;p&gt;更新内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;首先是调整了一下首页内容，我觉得首页一定要尽可能展示多的东西，而不是一个简单的profile，不禁让人：“何意味？”。&lt;/li&gt;
+&lt;/ul&gt;</description><content:encoded><![CDATA[<p>当你点进来时候发现有个耄耋对你哈气你是何心情？</p>
+<p>更新内容：</p>
+<ul>
+<li>首先是调整了一下首页内容，我觉得首页一定要尽可能展示多的东西，而不是一个简单的profile，不禁让人：“何意味？”。</li>
+</ul>
+<ul>
+<li>
+<p>其次是修正了一下评论区的样式，现在的评论区是可以正常显示了，前提是你要有一个很好的科学上网，但既然都访问到这了那科学上网必然不是什么难事。但是技术文档页面的主题还有点问题。</p>
+</li>
+<li>
+<p>最后就是一些真的很小很小的细节。</p>
+</li>
+</ul>]]></content:encoded></item><item><title>今日更新：数学公式支持、侧边目录、评论系统</title><link>https://HaoZhong03.github.io/posts/20250917/</link><pubDate>Wed, 17 Sep 2025 14:39:43 +0800</pubDate><guid>https://HaoZhong03.github.io/posts/20250917/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# 首先测试一下代码框样式&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;print(&lt;span style="color:#e6db74"&gt;&amp;#39;你好&amp;#39;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="数学公式"&gt;数学公式&lt;/h2&gt;
-&lt;p&gt;这是行内公式：$ a=b $&lt;br&gt;
-以下是行间公式：
-$$ e=mc^2 $$
-简单公式顺利显示，但是带&lt;code&gt;_&lt;/code&gt;的公式需要放在代码框里：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$$ \frac{\partial E(\boldsymbol{w})}{\partial z_j} = \sum\limits_{k}\frac{\partial E(\boldsymbol{w})}{\partial y_{k}}\frac{\partial y_k}{\partial z_{j}}= \sum\limits_{k} (y_{k}- \hat{y}_{k}) w_{kj}^{(2)} $$&lt;/code&gt;&lt;/p&gt;</description><content:encoded><![CDATA[<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#75715e"># 首先测试一下代码框样式</span>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description><content:encoded><![CDATA[<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#75715e"># 首先测试一下代码框样式</span>
 </span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">&#39;你好&#39;</span>)
 </span></span></code></pre></div><h2 id="数学公式">数学公式</h2>
 <p>这是行内公式：$ a=b $<br>
@@ -17,22 +28,13 @@ $$ e=mc^2 $$
 <p>其实早就做好了，今天就是在这里凑一个条目。</p>
 <h2 id="评论系统">评论系统</h2>
 <p>以一种不太优雅的方法实现了评论区，快来试试吧👇👇。<br>
-哈哈但是首先你得有一个github账号。</p>
-<script src="https://giscus.app/client.js"
-        data-repo="Haozhong03/Haozhong03.github.io"
-        data-repo-id="R_kgDOPutG0g"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOPutG0s4Cvi80"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>]]></content:encoded></item><item><title>今天也在维护网站</title><link>https://HaoZhong03.github.io/posts/20250916/</link><pubDate>Tue, 16 Sep 2025 20:50:25 +0800</pubDate><guid>https://HaoZhong03.github.io/posts/20250916/</guid><description>又活了一天</description><content:encoded><![CDATA[<p>今日维护内容：</p>
+哈哈但是首先你得有一个github账号。</p>]]></content:encoded></item><item><title>今天也在维护网站</title><link>https://HaoZhong03.github.io/posts/20250916/</link><pubDate>Tue, 16 Sep 2025 20:50:25 +0800</pubDate><guid>https://HaoZhong03.github.io/posts/20250916/</guid><description>&lt;p&gt;今日维护内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;调整了目录样式&lt;/li&gt;
+&lt;li&gt;添加搜索功能&lt;/li&gt;
+&lt;li&gt;删除旧测试文档&lt;/li&gt;
+&lt;li&gt;使用图床代替本地资源&lt;/li&gt;
+&lt;/ul&gt;</description><content:encoded><![CDATA[<p>今日维护内容：</p>
 <ul>
 <li>调整了目录样式</li>
 <li>添加搜索功能</li>
@@ -40,19 +42,4 @@ $$ e=mc^2 $$
 <li>使用图床代替本地资源</li>
 </ul>
 <p><strong>男人也可以这么美丽吗.jpg</strong></p>
-<p><img alt="pVfHvcR.md.jpg" loading="lazy" src="https://s21.ax1x.com/2025/09/16/pVfHvcR.md.jpg"></p>
-<script src="https://giscus.app/client.js"
-        data-repo="Haozhong03/Haozhong03.github.io"
-        data-repo-id="R_kgDOPutG0g"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOPutG0s4Cvi80"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>]]></content:encoded></item></channel></rss>
+<p><img alt="pVfHvcR.md.jpg" loading="lazy" src="https://s21.ax1x.com/2025/09/16/pVfHvcR.md.jpg"></p>]]></content:encoded></item></channel></rss>
